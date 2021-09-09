@@ -10,7 +10,7 @@ user_description: Sono un System Administrator / Sistemista di Pordenone
 user_title: Sistemista
 email: alessandro.chiommino@gmail.com
 # twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
+github_username:  DrenMaisey
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
