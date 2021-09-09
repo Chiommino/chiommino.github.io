@@ -1,7 +1,7 @@
 # Site settings
 title: Alessandro Chiommino
 description: Jekyll Theme Minimal Resume
-# baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "chiommino.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
